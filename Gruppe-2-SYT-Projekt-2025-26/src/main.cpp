@@ -2,7 +2,7 @@
 #include <DHT.h>
 
 #define dhtType DHT11
-#define dhtPin 12
+#define dhtPin 32
 
 DHT sensor(dhtPin, dhtType);
 
